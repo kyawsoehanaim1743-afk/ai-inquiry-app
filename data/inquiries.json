@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "created_at": "2026-05-07 16:22:06",
+    "question": "お昼休みは何時からですか？",
+    "category": "その他",
+    "priority": "中",
+    "answer": "エラーが発生しました: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+  },
+  {
+    "id": 2,
+    "created_at": "2026-05-07 16:24:08",
+    "question": "お昼休みは何時からですか？",
+    "category": "その他",
+    "priority": "中",
+    "answer": "エラーが発生しました: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+  },
+  {
+    "id": 3,
+    "created_at": "2026-05-07 16:25:49",
+    "question": "お昼休みは何時からですか？",
+    "category": "その他",
+    "priority": "中",
+    "answer": "エラーが発生しました: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+  },
+  {
+    "id": 4,
+    "created_at": "2026-05-07 16:33:22",
+    "question": "給料明細をどこにもらえますか？",
+    "category": "給与",
+    "priority": "低",
+    "answer": "給料明細は、社内ポータルサイト内の「給与明細確認システム」または「人事システム」より電子データでご確認いただけます。"
+  },
+  {
+    "id": 5,
+    "created_at": "2026-05-07 16:35:41",
+    "question": "パソコンの動きが重いのでどうすればいいですか？",
+    "category": "PCトラブル",
+    "priority": "中",
+    "answer": "お困りとのこと、承知いたしました。"
+  },
+  {
+    "id": 6,
+    "created_at": "2026-05-07 16:36:34",
+    "question": "パソコンの動きが重いのでどうすればいいですか？",
+    "category": "ITサポート",
+    "priority": "中",
+    "answer": "パソコンの動作が重いとのこと、ご不便をおかけしております。"
+  },
+  {
+    "id": 7,
+    "created_at": "2026-05-07 16:37:34",
+    "question": "体調不良だったらどうすればいいですか？",
+    "category": "健康管理・勤怠管理",
+    "priority": "中",
+    "answer": "体調不良とのこと、ご心配ですね。ご自身の体調を最優先にしてください。"
+  }
+]

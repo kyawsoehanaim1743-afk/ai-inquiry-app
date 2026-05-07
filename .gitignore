@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Data
+data/*.db
+data/*.sqlite
+
+# Logs
+*.log
